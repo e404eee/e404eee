@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @e404eee
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m @e404eee, 19 yo.
+- 👀 I’m CS Student (HIgher Nationale School Of Advenced Technology ).
+- 🌱 C , Python , HTML , CSS , JS . 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : labac742@gmail.com
+- 📫 How to reach me : labac742@gmail.com or insta: e404eee.
 - ⚡ Fun fact: ...
 
 <!---
