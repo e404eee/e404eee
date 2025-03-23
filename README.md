@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e404eee, 19 yo.
+- 👋 Hi, I’m Mohamed, 19 yo.
 - 👀 I’m CS Student (HIgher Nationale School Of Advenced Technology ).
 - 🌱 C , Python , HTML , CSS , JS . 
 - 💞️ I’m looking to collaborate on ...
