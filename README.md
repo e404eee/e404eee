@@ -2,9 +2,6 @@
 - 👀 I’m CS Student (HIgher Nationale School Of Advenced Technology ).
 - 🌱 C , Python , HTML , CSS , JS . 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-         Linkedin : Binani Mohamed Alaa Eddine 
-        / Gmail: alaamohamede404eee@gmail.com 
 - ⚡ Fun fact: ...
 
 <!---
